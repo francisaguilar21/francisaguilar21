@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 
+
+- I'm Francis, I have almost a decade of experience in 👨‍💻 software engineering and 📋 project management. 
+- I'm the 🤓 Co-Founder and CTO of 🔗 Fitscovery, a digital platform that empowers fitness enthusiasts to build their digital presence, get more customers, & streamline their business operations.
 
 <!--
 **francisaguilar21/francisaguilar21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
