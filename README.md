@@ -1,8 +1,12 @@
-### Hi there 👋 
+## Hi there 👋 
+
+### About Me
 
 - I'm Francis, I have almost a decade of experience in 👨‍💻 software engineering and 📋 project management. 
-- I'm the 🤓 Co-Founder and CTO of 🔗 Fitscovery, a digital platform that empowers fitness enthusiasts to build their digital presence, get more customers, & streamline their business operations.
+- 🤓 The Co-Founder and CTO of 🔗 Fitscovery, a digital platform that empowers fitness enthusiasts to build their digital presence, get more customers, & streamline their business operations.
+- 🍞 Head of IT & Production @ Golden Wheat Bakery, a bread manufacturing company producing quality and affordable products since 1982.
 
+  
 <!--
 **francisaguilar21/francisaguilar21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
