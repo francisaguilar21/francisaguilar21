@@ -1,12 +1,14 @@
-## Hi there 👋  I'm Francis!
+<h1 align="center"><b>Hi, I'm Francis</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&size=25&duration=3000&pause=500&random=false&width=435&lines=Entrepreneur;Software+Engineer;Project+Manager)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&size=25&duration=3000&pause=500&random=false&width=500&center=true&lines=Entrepreneur;Software+Engineer;Project+Manager">    </a>
+</p>
 
 - I have almost a decade of experience in 👨‍💻 software engineering and 📋 project management. 
 - 🤓 Co-Founder & CTO @ [Fitscovery](https://fitscovery.com)
 - 🍞 Head of IT & Production @ [Golden Wheat Bakery](https://www.facebook.com/goldenwheatbakeryph/)
 
-## Technologies
+<h2>Technologies <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=20px></h2>
 
 [![My Skills](https://skillicons.dev/icons?i=azure,aws,gcp,firebase,mysql,git,github,cs,dotnet,angular,nestjs,nodejs,react,nextjs,discord,postman,visualstudio,vscode,ts,js,html,css,bootstrap)](https://skillicons.dev)
 
