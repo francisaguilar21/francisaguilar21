@@ -1,7 +1,8 @@
-<h1 align="center"><b>Hi, I'm Francis</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1><b>Hi there</b>   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&size=25&duration=3000&pause=500&random=false&width=500&center=true&lines=Entrepreneur;Software+Engineer;Project+Manager">    </a>
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&size=25&color=2F81F7&duration=2500&pause=500&random=false&width=500&center=false&lines=I'm+Francis+Aguilar;I'm+an+Entrepreneur;A+Fullstack+Software+Engineer;and+a+Project+Manager">
+  </a>
 </p>
 
 - I have almost a decade of experience in 👨‍💻 software engineering and 📋 project management. 
