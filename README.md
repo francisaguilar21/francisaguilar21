@@ -1,12 +1,15 @@
-## Hi there 👋 
+## Hi there 👋  I'm Francis!
 
-### About Me
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&size=25&duration=3000&pause=500&random=false&width=435&lines=Entrepreneur;Software+Engineer;Project+Manager)](https://git.io/typing-svg)
 
-- I'm Francis, I have almost a decade of experience in 👨‍💻 software engineering and 📋 project management. 
-- 🤓 The Co-Founder and CTO of 🔗 Fitscovery, a digital platform that empowers fitness enthusiasts to build their digital presence, get more customers, & streamline their business operations.
-- 🍞 Head of IT & Production @ Golden Wheat Bakery, a bread manufacturing company producing quality and affordable products since 1982.
+- I have almost a decade of experience in 👨‍💻 software engineering and 📋 project management. 
+- 🤓 Co-Founder & CTO @ [Fitscovery](https://fitscovery.com)
+- 🍞 Head of IT & Production @ [Golden Wheat Bakery](https://www.facebook.com/goldenwheatbakeryph/)
 
-  
+## Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=azure,aws,gcp,firebase,mysql,git,github,cs,dotnet,angular,nestjs,nodejs,react,nextjs,discord,postman,visualstudio,vscode,ts,js,html,css,bootstrap)](https://skillicons.dev)
+
 <!--
 **francisaguilar21/francisaguilar21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
