@@ -15,6 +15,7 @@
       <ul>
           <li>I have almost a decade of experience in 👨‍💻 software engineering and 📋 project management.</li>
           <li>🤓 Co-Founder & CTO @ <a href="https://fitscovery.com">Fitscovery</a></li>
+          <li>🌐 Founder @ Aguilar IT Consulting</li>
           <li>🍞 Head of IT & Production @ <a href="https://www.facebook.com/goldenwheatbakeryph">Golden Wheat Bakery</a></li>
       </ul>
   </div>
@@ -24,7 +25,7 @@
   </div>
 </div>
 
-  [![My Skills](https://skillicons.dev/icons?i=azure,aws,gcp,firebase,mysql,git,github,cs,dotnet,angular,nestjs,nodejs,react,nextjs,discord,postman,visualstudio,vscode,ts,js,html,css,bootstrap)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=azure,aws,gcp,firebase,vercel,mysql,git,github,cs,dotnet,angular,nestjs,nodejs,react,nextjs,discord,postman,visualstudio,vscode,ts,js,html,css,bootstrap)](https://skillicons.dev)
 <!--
 **francisaguilar21/francisaguilar21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
