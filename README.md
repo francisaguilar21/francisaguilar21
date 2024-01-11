@@ -14,9 +14,10 @@
       <br>
       <ul>
           <li>I have almost a decade of experience in 👨‍💻 software engineering and 📋 project management.</li>
+          <li>🌐 Founder @ Aguilar Information Technology Solutions</li>
           <li>🤓 Co-Founder & CTO @ <a href="https://fitscovery.com">Fitscovery</a></li>
-          <li>🌐 Founder @ Aguilar IT Consulting</li>
           <li>🍞 Head of IT & Production @ <a href="https://www.facebook.com/goldenwheatbakeryph">Golden Wheat Bakery</a></li>
+          <li>🏃‍♂️ Pacer @ <a href="https://www.asics.com/ph/en-ph/mk/running-club">Asics PH</a></li>
       </ul>
   </div>
   <div alighn=left>
