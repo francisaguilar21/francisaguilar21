@@ -14,7 +14,7 @@
       <br>
       <ul>
           <li>I have almost a decade of experience in 👨‍💻 software engineering and 📋 project management.</li>
-          <li>🌐 Founder @ Aguilar Information Technology Solutions</li>
+          <li>🌐 Founder @ <a href="https://www.aguilaritsolutions.com">Aguilar Information Technology Solutions</a></li>
           <li>🤓 Ex-Founder & CTO @ <a href="https://fitscovery.com">Fitscovery</a></li>
           <li>🏃‍♂️ Pacer @ <a href="https://www.asics.com/ph/en-ph/mk/running-club">Asics PH</a></li>
       </ul>
