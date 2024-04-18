@@ -4,14 +4,16 @@
   </div>
   <br>
   <div align=center>
-    <a href="https://www.linkedin.com/in/ahmedfathydev/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn"/></a>
+    <a href="https://www.linkedin.com/in/francisaguilar21/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://www.hackerrank.com/profile/francis_aguilar1"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"></a>
     <a href="https://leetcode.com/francisaguilar21"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"></a>
+  </div>
+  <br>
+  <div align=center>
     <a href="https://github.com/francisaguilar21">
       <img src="https://komarev.com/ghpvc/?username=francisaguilar21&label=Profile%20Views&color=0e75b6&style=flat" alt="francisaguilar21"/>
     </a>
   </div>
-  <br>
   <div align=left>
       <br>
       <ul>
