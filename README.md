@@ -1,6 +1,6 @@
 <div>
   <div align=center>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&size=25&color=FFFFFF&duration=2500&pause=500&size=32&center=true&vCenter=true&width=600&height=50&lines=I'm+Francis+Aguilar;I'm+an+Entrepreneur;A+Fullstack+Software+Engineer;and+a+Project+Manager" alt="Headline"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&size=25&color=FFFFFF&duration=2500&pause=500&size=32&center=true&vCenter=true&width=600&height=50&lines=I'm+Francis+Aguilar;I'm+an+Entrepreneur;A+Fullstack+Software+Engineer;and+a+Tech+Geek" alt="Headline"/>
   </div>
   <br>
   <div align=center>
@@ -17,8 +17,7 @@
   <div align=left>
       <br>
       <ul>
-          <li>I have almost a decade of experience in 👨‍💻 software engineering and 📋 project management.</li>
-          <li>🌐 Founder @ <a href="https://www.aguilaritsolutions.com">Aguilar Information Technology Solutions</a></li>
+          <li>🌐 Full Stack Software Engineer </li>
           <li>🤓 Ex-Founder & CTO @ <a href="https://fitscovery.com">Fitscovery</a></li>
           <li>🏃‍♂️ Pacer @ <a href="https://www.asics.com/ph/en-ph/mk/running-club">Asics PH</a></li>
       </ul>
@@ -29,7 +28,7 @@
   </div>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=azure,aws,gcp,firebase,vercel,mysql,git,github,cs,dotnet,angular,nestjs,nodejs,react,nextjs,discord,postman,visualstudio,vscode,ts,js,html,css,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,aws,gcp,firebase,vercel,mysql,git,github,cs,dotnet,angular,nestjs,nodejs,react,nextjs,discord,postman,visualstudio,vscode,ts,js,html,css,bootstrap,postman)](https://skillicons.dev)
 
 <a href="https://github.com/devxb/gitanimals">
   <img
