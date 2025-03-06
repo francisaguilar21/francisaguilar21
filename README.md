@@ -9,11 +9,11 @@
     <a href="https://leetcode.com/francisaguilar21"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"></a>
   </div>
   <br>
-  <div align=center>
+  <!-- <div align=center>
     <a href="https://github.com/francisaguilar21">
       <img src="https://komarev.com/ghpvc/?username=francisaguilar21&label=Profile%20Views&color=0e75b6&style=flat" alt="francisaguilar21"/>
     </a>
-  </div>
+  </div> -->
   <div align=left>
       <br>
       <ul>
