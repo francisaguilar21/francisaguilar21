@@ -28,7 +28,7 @@
   </div>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=azure,aws,gcp,firebase,vercel,mysql,git,github,cs,dotnet,angular,nestjs,nodejs,react,nextjs,discord,postman,visualstudio,vscode,ts,js,html,css,bootstrap,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,aws,gcp,firebase,vercel,supabase,postgresql,mysql,git,github,githubactions,cs,dotnet,angular,nestjs,express,nodejs,react,nextjs,discord,postman,visualstudio,vscode,ts,js,html,css,bootstrap,postman)](https://skillicons.dev)
 
 <a href="https://github.com/devxb/gitanimals">
   <img
