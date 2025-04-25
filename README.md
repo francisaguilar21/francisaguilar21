@@ -17,8 +17,7 @@
   <div align=left>
       <br>
       <ul>
-          <li>🌐 Full Stack Software Engineer (C#, .NET, Angular) </li>
-          <li>🤓 Ex-Founder & CTO @ <a href="https://fitscovery.com">Fitscovery</a></li>
+          <li>🌐 Full Stack Software Engineer</li>
           <li>🏃‍♂️ Pacer @ <a href="https://www.asics.com/ph/en-ph/mk/running-club">Asics PH</a></li>
       </ul>
   </div>
