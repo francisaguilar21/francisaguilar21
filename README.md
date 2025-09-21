@@ -9,11 +9,6 @@
     <a href="https://leetcode.com/francisaguilar21"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"></a>
   </div>
   <br>
-  <!-- <div align=center>
-    <a href="https://github.com/francisaguilar21">
-      <img src="https://komarev.com/ghpvc/?username=francisaguilar21&label=Profile%20Views&color=0e75b6&style=flat" alt="francisaguilar21"/>
-    </a>
-  </div> -->
   <div align=left>
       <br>
       <ul>
@@ -21,9 +16,8 @@
           <li>🏃‍♂️ Pacer @ <a href="https://www.asics.com/ph/en-ph/mk/running-club">Asics PH</a></li>
       </ul>
   </div>
-  <div alighn=left>
+  <div align=left>
     <h2>Technologies <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=20px></h2>  
-
   </div>
 </div>
 
@@ -36,3 +30,11 @@
     height="700"
   />
 </a>
+
+<br/>
+
+<div align=center>
+  <a href="https://github.com/francisaguilar21">
+    <img src="https://komarev.com/ghpvc/?username=francisaguilar21&label=Profile%20Views&color=0e75b6&style=flat" alt="francisaguilar21"/>
+  </a>
+</div>
