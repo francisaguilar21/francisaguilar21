@@ -22,11 +22,3 @@
     height="700"
   />
 </a>
-
-<br/>
-
-<div align=center>
-  <a href="https://github.com/francisaguilar21">
-    <img src="https://komarev.com/ghpvc/?username=francisaguilar21&label=Visitors&color=0e75b6&style=flat" alt="francisaguilar21"/>
-  </a>
-</div>
